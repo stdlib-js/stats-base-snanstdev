@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-07-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`07d7a23`](https://github.com/stdlib-js/stdlib/commit/07d7a2388a8916c3f70c18abcc51b4086898bb1a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ea622d9`](https://github.com/stdlib-js/stdlib/commit/ea622d981caec008ecc84f33c2253e39c0267576) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9c993f8`](https://github.com/stdlib-js/stdlib/commit/9c993f89e63574c8b17ec62d4ca1b5d88e47bf3e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`cf81564`](https://github.com/stdlib-js/stdlib/commit/cf81564ecc53216262182b3cde382247e079377a) - **refactor:** update `stats/base/snanstdev` native addon from C++ to C [(#5285)](https://github.com/stdlib-js/stdlib/pull/5285) _(by Prashant Kumar Yadav, Athan Reines)_
