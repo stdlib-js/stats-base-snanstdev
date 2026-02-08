@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-snanstdev",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Calculate the standard deviation of a single-precision floating-point strided array ignoring NaN values.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-error": "^0.2.2",
+    "@stdlib/assert-is-error": "^0.2.3",
     "@stdlib/napi-argv": "^0.2.3",
     "@stdlib/napi-argv-float": "^0.2.3",
     "@stdlib/napi-argv-int64": "^0.2.3",
@@ -50,27 +50,27 @@
     "@stdlib/napi-export": "^0.3.1",
     "@stdlib/stats-base-snanstdevpn": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
-    "@stdlib/utils-library-manifest": "^0.2.3",
-    "@stdlib/utils-try-require": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.4",
+    "@stdlib/utils-try-require": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/array-float32": "^0.2.2",
-    "@stdlib/assert-is-browser": "^0.2.2",
+    "@stdlib/array-float32": "^0.2.3",
+    "@stdlib/assert-is-browser": "^0.2.3",
     "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.3",
     "@stdlib/math-base-special-abs": "^0.2.3",
     "@stdlib/math-base-special-floor": "^0.2.4",
-    "@stdlib/math-base-special-pow": "^0.3.0",
+    "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/math-base-special-round": "^0.3.1",
     "@stdlib/math-base-special-sqrt": "^0.2.3",
-    "@stdlib/number-float64-base-to-float32": "^0.2.2",
+    "@stdlib/number-float64-base-to-float32": "^0.2.3",
     "@stdlib/random-base-randu": "^0.2.2",
     "@stdlib/string-format": "^0.2.3",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.2"
+    "@stdlib/bench-harness": "^0.2.3"
   },
   "engines": {
     "node": ">=0.10.0",
